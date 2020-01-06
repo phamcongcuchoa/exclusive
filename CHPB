@@ -6,7 +6,7 @@
 </td>
 </tr>
 <tr>
-<td style="width: 120px;"><img style="align: center;" src="[remote_content url="https://raw.githubusercontent.com/phamcongcuchoa/exclusive/master/hometeamlogo"]" /></td>
+<td style="width: 120px;"><img style="align: center;" src="curl https://raw.githubusercontent.com/phamcongcuchoa/exclusive/master/hometeamlogo" /></td>
 <td style="width: 15px;" rowspan="4">
 <p style="text-align: center; vertical-align: middle;"><strong>v</strong></p>
 </td>
